@@ -1,11 +1,12 @@
 ### Hi there, my name is Romario Pires Dias 👋
 <br/>
+<h2>❗ Information</h2>
 
-- 🔥 Pleno Web Developer
+- 🔥 **Pleno Web Developer**
 - 👩🏻‍💻 Currently I work as a full stack developer at **Visionnaire**
-- 🏡 I live in Santa Fe do Sul, SP
+- 🏡 I live in **Santa Fe do Sul, SP**
 - ⚜ I currently work with **Angular**, **Laravel** and **Ionic**
-- ✈ Availability to travel
+- 🎓 I have a degree in **Systems Analysis and Development**
 - ⚡ Fun fact **I'm a twin 😜**
 
 <h2>🛠 Skills</h2>
