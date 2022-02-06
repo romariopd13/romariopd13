@@ -1,5 +1,4 @@
 ### Hi there, my name is Romario Pires Dias 👋
-<br/>
 <h2>❗ Information</h2>
 
 - 🔥 **Pleno Web Developer**
