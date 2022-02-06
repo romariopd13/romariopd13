@@ -1,4 +1,4 @@
-### Olá, eu sou Romario Pires Dias 👋
+### Hi there, my name is Romario Pires Dias 👋
 
 <!--
 **romariopd13/romariopd13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
