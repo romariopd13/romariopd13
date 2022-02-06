@@ -1,10 +1,12 @@
 ### Hi there, my name is Romario Pires Dias 👋
 <br/>
 
-- 👩🏻‍💻 Currently I work as a full stack at Visionnaire
+- 🔥 Pleno Web Developer
+- 👩🏻‍💻 Currently I work as a full stack developer at Visionnaire
 - 🏡 I live in Santa Fe do Sul, SP
 - 📚 Learning Laravel
 - 
+- ⚡ Fun fact **I'm a twin 😜**
 
 <h2>🛠 Skills</h2>
 
@@ -45,14 +47,16 @@
 <div align="left">
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" title="Nestjs" />
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="Python" />
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" />
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" title="Android" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" title="Flutter" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title="Spring" />
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" title=".Net Core" />
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" title="Electron" />
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" />
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" />
-
-
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" title="Yarn" />
 </div>
 <br/>
 <h2>📲 Social Links</h2>
