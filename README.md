@@ -2,10 +2,10 @@
 <br/>
 
 - 🔥 Pleno Web Developer
-- 👩🏻‍💻 Currently I work as a full stack developer at Visionnaire
+- 👩🏻‍💻 Currently I work as a full stack developer at **Visionnaire**
 - 🏡 I live in Santa Fe do Sul, SP
-- 📚 Learning Laravel
-- 
+- ⚜ I currently work with **Angular**, **Laravel** and **Ionic**
+- ✈ Availability to travel
 - ⚡ Fun fact **I'm a twin 😜**
 
 <h2>🛠 Skills</h2>
